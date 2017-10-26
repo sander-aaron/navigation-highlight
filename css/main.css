@@ -24,6 +24,7 @@ h1 {
   font-size: 3rem;
   margin: 0;
   padding: .2em;
+  padding-top: 0;
 }
 
 nav {
