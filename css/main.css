@@ -76,7 +76,6 @@ a {
 h2 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
-  line-height: 1.45;
   font-size: 1.875rem;
   padding: .5em;
   margin: 0;
@@ -95,7 +94,6 @@ p {
 }
 
 .para {
-  line-height: 1.45;
   padding: .75em;
   font-size: 1.125rem;
   margin: 0;
