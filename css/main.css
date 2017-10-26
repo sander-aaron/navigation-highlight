@@ -13,6 +13,25 @@ header {
   text-align: center;
 }
 
+h1 {
+  font-family: 'Sigmar One', cursive;
+  color: #b20953;
+}
+
+h2 {
+  font-family: 'Sigmar One', cursive;
+  color: #b20953;
+}
+
+nav {
+  font-family: Georgia, serif;
+}
+
 nav li {
   display: inline-block;
+  color: #fff;
+}
+
+nav a:hover {
+  background-color: #cc1465;
 }
