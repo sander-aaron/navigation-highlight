@@ -2,10 +2,15 @@ html {
   box-sizing: border-box;
   background-color: #fff;
   line-height: 1.5;
+  margin: 0
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 0;
 }
 
 header {
@@ -16,22 +21,42 @@ header {
 h1 {
   font-family: 'Sigmar One', cursive;
   color: #b20953;
+  font-size: 3rem;
+  margin: 0;
+}
+
+nav {
+  font-family: Georgia, serif;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  background-color: #b2a212;
+}
+
+li {
+  color: #fff;
+  font-size: 1.123rem;
+}
+
+nav a:hover {
+  background-color: #cc1465;
 }
 
 h2 {
   font-family: 'Sigmar One', cursive;
   color: #b20953;
+  font-size: 1.875rem;
 }
 
-nav {
-  font-family: Georgia, serif;
+img {
+  display: block;
+  width: 100%;
 }
 
-nav li {
-  display: inline-block;
-  color: #fff;
-}
-
-nav a:hover {
-  background-color: #cc1465;
+footer {
+  background-color: #ffe500;
+  font-size: .75rem;
+  text-align: center;
 }
