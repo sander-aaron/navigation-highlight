@@ -23,11 +23,13 @@ h1 {
   color: #b20953;
   font-size: 3rem;
   margin: 0;
+  padding: .2em;
 }
 
 nav {
   font-family: Georgia, serif;
   margin: 0;
+  padding: .2em;
 }
 
 nav li {
@@ -43,9 +45,18 @@ nav li:hover {
   padding: .3em;
 }
 
+ul {
+  margin: 0;
+  padding: 0;
+}
+
 li {
   color: #fff;
   font-size: 1.125rem;
+}
+
+a {
+  color: #fff;
   text-decoration: none;
 }
 
@@ -54,6 +65,7 @@ h2 {
   color: #b20953;
   font-size: 1.875rem;
   padding: .5em;
+  margin: 0;
 }
 
 img {
@@ -63,7 +75,9 @@ img {
 }
 
 .para {
+  padding: .5em;
   font-size: 1.125rem;
+  margin: 0;
 }
 
 footer {
