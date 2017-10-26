@@ -13,7 +13,7 @@ body {
   margin: 0;
 }
 
-header {
+section {
   background-color: #ffe500;
   text-align: center;
 }
@@ -84,4 +84,5 @@ footer {
   background-color: #ffe500;
   font-size: .75rem;
   text-align: center;
+  padding: .5em;
 }
