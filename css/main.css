@@ -33,15 +33,20 @@ nav {
 nav li {
   display: inline-block;
   background-color: #b2a212;
+  border-radius: 4px;
+  padding: .3em;
+}
+
+nav li:hover {
+  background-color: #cc1465;
+  border-radius: 4px;
+  padding: .3em;
 }
 
 li {
   color: #fff;
-  font-size: 1.123rem;
-}
-
-nav a:hover {
-  background-color: #cc1465;
+  font-size: 1.125rem;
+  text-decoration: none;
 }
 
 h2 {
