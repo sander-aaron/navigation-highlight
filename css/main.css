@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #fff;
   line-height: 1.5;
-  margin: 0
+  margin: 0;
 }
 
 *, *::before, *::after {
@@ -19,7 +19,7 @@ header, section {
 }
 
 h1 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 3rem;
   margin: 0;
@@ -61,7 +61,7 @@ a {
 }
 
 h2 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 1.875rem;
   padding: .5em;
@@ -72,6 +72,10 @@ img {
   display: block;
   width: 100%;
   padding: .5em;
+}
+
+p {
+  color: #2f2d13;
 }
 
 .para {
