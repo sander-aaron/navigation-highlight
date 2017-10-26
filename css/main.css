@@ -13,7 +13,7 @@ body {
   margin: 0;
 }
 
-header, footer {
+header {
   background-color: #ffe500;
   text-align: center;
 }
@@ -91,6 +91,12 @@ p {
   padding: .5em;
   font-size: 1.125rem;
   margin: 0;
+}
+
+footer {
+  background-color: #ffe500;
+  text-align: center;
+  padding: .75em
 }
 
 .bottom {
