@@ -13,7 +13,7 @@ body {
   margin: 0;
 }
 
-section {
+header, section {
   background-color: #ffe500;
   text-align: center;
 }
