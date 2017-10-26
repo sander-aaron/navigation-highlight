@@ -16,6 +16,7 @@ body {
 header {
   background-color: #ffe500;
   text-align: center;
+  margin: 0;
 }
 
 h1 {
@@ -36,12 +37,16 @@ nav li {
   background-color: #b2a212;
   border-radius: 4px;
   padding: .3em;
+  padding-left: .5em;
+  padding-right: .5em;
 }
 
 nav li:hover {
   background-color: #cc1465;
   border-radius: 4px;
   padding: .3em;
+  padding-left: .5em;
+  padding-right: .5em;
 }
 
 a:hover {
